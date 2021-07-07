@@ -9,4 +9,5 @@ int main() {
   //plt::figure();
   plt::plot(y);
   plt::savefig("minimal.pdf");
+  return 0;
 }
