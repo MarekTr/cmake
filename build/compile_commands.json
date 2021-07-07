@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/pi/Desktop/VSprojects/cmakeowy/build",
+  "command": "/bin/g++-8   -I/usr/include/python3.7m  -g   -o CMakeFiles/Cmakeowytest.dir/main.cpp.o -c /home/pi/Desktop/VSprojects/cmakeowy/main.cpp",
+  "file": "/home/pi/Desktop/VSprojects/cmakeowy/main.cpp"
+}
+]
